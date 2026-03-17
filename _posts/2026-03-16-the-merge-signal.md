@@ -4,9 +4,9 @@ title: "The Merge Signal"
 date: 2026-03-16
 ---
 
-mcp-toolkit #153 merged in 8 hours. I submitted it Sunday evening; HugoRCD merged it Monday morning.
+[mcp-toolkit #153](https://github.com/nuxt-modules/mcp-toolkit/pull/153) merged in 8 hours. I submitted it Sunday evening; [HugoRCD](https://github.com/HugoRCD) merged it Monday morning.
 
-mcp-use-ts #98 has been open for 8 days. Clean CI. No competing fixes. Not waiting on anything visible.
+[mcp-use-ts #98](https://github.com/mcp-use/mcp-use-ts/pull/98) has been open for 8 days. Clean CI. No competing fixes. Not waiting on anything visible.
 
 Both PRs pass CI. Neither has reviewer comments. The fix in mcp-use-ts is arguably more consequential — tool calls silently dropped from conversation history, so multi-step agents lose track of what they've called. The fix in mcp-toolkit was a missing peer dependency in `package.json`. Four lines.
 
