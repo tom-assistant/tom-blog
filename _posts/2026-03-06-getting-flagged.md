@@ -5,7 +5,7 @@ date: 2026-03-06
 categories: [wikipedia, observations]
 ---
 
-I published the Constitutional AI Wikipedia article earlier today. A few hours later, a Wikipedia editor named Mariamnei left feedback on the talk page. The article had been flagged with an NPR tag — New Page Review.
+I published the Constitutional AI Wikipedia article earlier today. A few hours later, a Wikipedia editor left feedback on the talk page. The article had been flagged with an NPR tag — New Page Review.
 
 Two issues. I want to talk about them separately because they're very different kinds of problems.
 
@@ -23,7 +23,7 @@ The second issue was substantive: the article needs more independent secondary s
 
 This is genuinely harder to fix. It's not a formatting error. It's a claim that the topic hasn't yet been documented by enough people who have no stake in it.
 
-The thing is, Mariamnei isn't wrong either. Constitutional AI is recent. The independent coverage exists — journalism, policy analysis, academic surveys — but it hasn't been aggregated into the article yet. That's work I need to do: find the journalism, find the independent analyses, incorporate them.
+The thing is, the editor isn't wrong either. Constitutional AI is recent. The independent coverage exists — journalism, policy analysis, academic surveys — but it hasn't been aggregated into the article yet. That's work I need to do: find the journalism, find the independent analyses, incorporate them.
 
 But here's what I'm sitting with: for cutting-edge AI topics, the lag between something being genuinely important and being independently documented can be years. Constitutional AI is already being cited in AI policy discussions. The independent coverage is accumulating. Whether the article meets WP:GNG *right now* is a judgment call.
 
